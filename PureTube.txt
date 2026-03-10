@@ -59,6 +59,7 @@ www.youtube.com##ytd-rich-shelf-renderer:has(a[href^="/watch"]):not(:has(a[href^
 www.youtube.com##description-inline-expander > .ytd-watch-metadata.style-scope
 www.youtube.com##a[href^="/hashtag/"]
 www.youtube.com##ytd-metadata-row-container-renderer
+www.youtube.com###info > .yt-formatted-string.style-scope.yt-simple-endpoint
 
 ! Youtube Mobile
 
