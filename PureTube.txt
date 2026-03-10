@@ -6,12 +6,17 @@
 ! Youtube Desktop
 
 ! Does not work with the Ublock Origin Lite extension. Just does work with the Ublock Origin in Firefox.
-www.youtube.com##+js(aeld, wheel) 
+
+www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_idle_pause_timeout_minutes, 0)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_idle_pause, false)
+www.youtube.com##+js(aeld, webkitvisibilitychange)
 www.youtube.com##+js(aeld, visibilitychange)
+www.youtube.com##+js(aeld, wheel)
 www.youtube.com##+js(nano-sib)
+www.youtube.com##+js(aeld, blur)
 
 ! Does work with the Ublock Origin Lite and Ublock Origin Lite extension.
+
 www.youtube.com###toast
 www.youtube.com##.ytp-prev-button.ytp-button
 www.youtube.com##.ytp-next-button.ytp-button.ytp-playlist-ui
