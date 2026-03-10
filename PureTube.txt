@@ -59,6 +59,16 @@ www.youtube.com##ytd-rich-shelf-renderer:has(a[href^="/watch"]):not(:has(a[href^
 www.youtube.com##description-inline-expander > .ytd-watch-metadata.style-scope
 www.youtube.com##ytd-metadata-row-container-renderer
 www.youtube.com###info > .yt-formatted-string.style-scope.yt-simple-endpoint
+youtube.com##a[href^="/hashtag/"]:upward(span)
+youtube.com##span.yt-core-attributed-string--link-inherit-color:has-text(/^ *$/)
+youtube.com##yt-confirm-dialog-renderer
+youtube.com##tp-yt-paper-dialog
+youtube.com##.opened
+youtube.com##yt-confirm-dialog-renderer
+youtube.com##+js(aeld, visibilitychange)
+youtube.com##+js(nano-sib)
+youtube.com##.ytp-pause-overlay
+youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_idle_pause, false)
 
 ! Youtube Mobile
 
