@@ -1,7 +1,7 @@
-! Title: PureTube-Ublock-Filter
+! Title: Youtube-Unnecessarys-Filter
 ! Description: Remove everything unnecessary from Youtube
-! Homepage: https://github.com/MSelSn/PureTube-Ublock-Filter
-! License: https://github.com/MSelSn/PureTube-Ublock-Filter/blob/master/LICENSE.md
+! Homepage: https://github.com/MSelSn/Youtube-Unnecessarys-Filter
+! License: https://github.com/MSelSn/Youtube-Unnecessarys-Filter/blob/master/LICENSE.md
 
 ! Youtube Desktop
 
