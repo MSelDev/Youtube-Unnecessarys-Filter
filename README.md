@@ -6,6 +6,6 @@ Try it out and let me improve it based on your feedback.
 
 <h2>⚙️ Setup</h2>
 
-You can view and download the filter [from here]([https://github.com/MSelSn/PureTube-Ublock-Filter/blob/main/PureTube.txt](https://raw.githubusercontent.com/MSelDev/Youtube-Unnecessarys-Filter/refs/heads/main/Youtube-Unnecessarys-Filter.txt).
+You can view and download the filter [from here]([https://github.com/MSelSn/PureTube-Ublock-Filter/blob/main/PureTube.txt](https://raw.githubusercontent.com/MSelDev/Youtube-Unnecessarys-Filter/refs/heads/main/Youtube-Unnecessarys-Filter.txt)).
 
 Download the txt file for **uBlock Origin** (Firefox, etc.) or **uBlock Origin Lite** (Chrome, etc.), then install the filter using the extension’s import option. It’s that simple 👌
